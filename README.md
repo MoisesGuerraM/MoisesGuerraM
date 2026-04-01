@@ -1,4 +1,8 @@
-![i-just-made-this-matrix-wallpaper-v0-7zc0nsxkdh4e1](https://github.com/user-attachments/assets/456c81c9-7213-42ef-9bb4-b9ccdeb1da97){width=45}
+<img 
+  src="https://github.com/user-attachments/assets/456c81c9-7213-42ef-9bb4-b9ccdeb1da97" 
+  alt="Matrix wallpaper" 
+  width="550"
+/>
 <!--
 **MoisesGuerraM/MoisesGuerraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +21,9 @@ taking part in projects where innovation and continuous improvement are part of 
 
 - 🔭 I’m currently working on: University schedule application
 - 🌱 I’m currently learning: Java, Spring, Spring Modulith, Dynamics systems
-- 👨🏻‍💻 I’m looking to collaborate on: Backend rojects
-- 📫 How to reach me: 
-
-- ✉️ [Email](mailto:moa.guerra99@gmail.com);
-- 💼 [Linkedin](https://www.linkedin.com/in/mguerram/);
+- 👨🏻‍💻 I’m looking to collaborate on: Java and Backend rojects
+- ✉️ [Email](mailto:moa.guerra99@gmail.com)
+- 💼 [Linkedin](https://www.linkedin.com/in/mguerram/)
 
  
 - 🛠️ Techs and Tools
