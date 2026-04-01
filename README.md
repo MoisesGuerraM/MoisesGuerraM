@@ -1,4 +1,4 @@
-![i-just-made-this-matrix-wallpaper-v0-7zc0nsxkdh4e1](https://github.com/user-attachments/assets/456c81c9-7213-42ef-9bb4-b9ccdeb1da97)
+![i-just-made-this-matrix-wallpaper-v0-7zc0nsxkdh4e1](https://github.com/user-attachments/assets/456c81c9-7213-42ef-9bb4-b9ccdeb1da97){width=45%}
 <!--
 **MoisesGuerraM/MoisesGuerraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +15,16 @@ Software Development and Quality Assurance (QA), integrating best development pr
 I am self-taught, proactive, and motivated by technical challenges. I enjoy adding value from day one, collaborating in teams, and
 taking part in projects where innovation and continuous improvement are part of the process.
 
-🔭 I’m currently working on: University schedule application
-🌱 I’m currently learning: Java, Spring, Spring Modulith, Dynamics systems
-👨🏻‍💻 I’m looking to collaborate on: Backend rojects
-📫 How to reach me: 
+- 🔭 I’m currently working on: University schedule application
+- 🌱 I’m currently learning: Java, Spring, Spring Modulith, Dynamics systems
+- 👨🏻‍💻 I’m looking to collaborate on: Backend rojects
+- 📫 How to reach me: 
 
-email = [Email](mailto:moa.guerra99@gmail.com);
-linkedin = [Linkedin](https://www.linkedin.com/in/mguerram/);
+- email = [Email](mailto:moa.guerra99@gmail.com);
+- linkedin = [Linkedin](https://www.linkedin.com/in/mguerram/);
 
  
-🛠️ Techs and Tools
+- 🛠️ Techs and Tools
 ```bash
 Lenguajes:    Java | JavaScript |
 Frameworks:   Spring Boot |
