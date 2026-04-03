@@ -1,7 +1,7 @@
 <img 
   src="https://github.com/user-attachments/assets/456c81c9-7213-42ef-9bb4-b9ccdeb1da97" 
   alt="Matrix wallpaper" 
-  width="550"
+<!--  width="550" -->
 />
 <!--
 **MoisesGuerraM/MoisesGuerraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
