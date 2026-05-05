@@ -31,6 +31,6 @@ taking part in projects where innovation and continuous improvement are part of 
 ```bash
 Lenguajes:    Java | JavaScript |
 Frameworks:   Spring Boot |
-Bases de datos: MySQL | PostgreSQL | MongoDB
-Herramientas: Git | Docker | Linux
+Databases: MySQL | PostgreSQL | MongoDB
+Tools: Git | Docker | Linux
 ```
