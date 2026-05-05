@@ -29,8 +29,8 @@ taking part in projects where innovation and continuous improvement are part of 
  
 - 🛠️ Techs and Tools
 ```bash
-Lenguajes:    Java | JavaScript |
-Frameworks:   Spring Boot |
-Databases: MySQL | PostgreSQL | MongoDB
-Tools: Git | Docker | Linux
+Lenguajes:     Java | JavaScript |
+Frameworks: Spring  |
+Databases:    MySQL | PostgreSQL | MongoDB
+Tools:          Git | Docker | Linux
 ```
