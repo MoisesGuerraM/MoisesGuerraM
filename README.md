@@ -20,7 +20,7 @@ Software Development and Quality Assurance (QA), integrating best development pr
 I am self-taught, proactive, and motivated by technical challenges. I enjoy adding value from day one, collaborating in teams, and
 taking part in projects where innovation and continuous improvement are part of the process.
 
-- 🔭 I’m currently working on: University schedule application
+- 🔭 I’m currently working on: 
 - 🌱 I’m currently learning: Java, Spring, Spring Modulith, Dynamics systems
 - 👨🏻‍💻 I’m looking to collaborate on: Java and Backend rojects
 - ✉️ [Email](mailto:moa.guerra99@gmail.com)
